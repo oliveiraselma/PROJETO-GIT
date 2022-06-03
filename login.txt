@@ -1,4 +1,9 @@
 criacao do html e css
 js
 adiciona validacao de usuario
+<<<<<<< HEAD
 ..
+=======
+novo comentario
+novo comentario2
+>>>>>>> login
